@@ -1,3 +1,4 @@
 music21 >= 8.2.0
 harte-library == 0.4.5
 ipykernel >= 6.0.0
+jams == 0.3.4
